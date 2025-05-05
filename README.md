@@ -84,7 +84,7 @@ This cyclical flow allows the essay to be improved iteratively based on critique
 1. **Clone the repository**
 
 ```
-git clone https://github.com/yourusername/essaycraft-langgraph.git
+git clone [https://github.com/yourusername/essaycraft-langgraph.git](https://github.com/KushagraTomar/AI-Agent-for-Essay-Writing---EssayCraft.git)
 cd essaycraft-langgraph
 ```
 
