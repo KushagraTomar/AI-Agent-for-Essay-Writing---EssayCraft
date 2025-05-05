@@ -1,5 +1,3 @@
-# AI-Agent-for-Essay-Writing---EssayCraft
-
 # 📝 EssayCraft: LangGraph Agent for Essay Writing
 
 ![image](https://github.com/user-attachments/assets/049b06b0-dc4e-4447-a7ae-0cf8739da8ed)
